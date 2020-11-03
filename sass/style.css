@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Pacifico&family=Poppins&family=Raleway&display=swap");
+/* Sass template */
+/* global classes */
+button,
+button:focus {
+  outline: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.font-rale {
+  font-family: "Raleway", cursive;
+}
+
+.font-montse {
+  font-family: "Montserrat", cursive;
+}
+
+.font-paci {
+  font-family: "Pacifico", cursive;
+}
+
+.font-poppins {
+  font-family: "Poppins", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+/* color template */
+.color-primary {
+  color: #ff5372;
+}
+
+.color-primary-bg {
+  background: #ff5372;
+}
+
+.color-second {
+  color: #ffa933;
+}
+
+.color-second-bg {
+  background: #ffa933;
+}
+
+.color-third-bg {
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 83, 114, 0.75)), to(rgba(255, 169, 51, 0.75)));
+  background: linear-gradient(90deg, rgba(255, 83, 114, 0.75) 0%, rgba(255, 169, 51, 0.75) 100%);
+  -webkit-backdrop-filter: blur(20px);
+          backdrop-filter: blur(20px);
+}
+
+.color-red {
+  color: #ff472e;
+}
+
+.color-red-bg {
+  background: #ff472e;
+}
+
+.color-btn {
+  color: white;
+  border-color: white;
+}
+
+.color-btn:hover {
+  color: #fff;
+  background-color: #ff5372;
+  border-color: #ff5372;
+}
+/*# sourceMappingURL=style.css.map */

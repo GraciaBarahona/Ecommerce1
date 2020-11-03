@@ -1,5 +1,6 @@
 # Ecommerce1
-Ecommerce para Proyecto Integrador I
+
+Ecommerce para el curso de Proyecto Integrador I
 Catálogo de productos (frutas y verduras)
 Carrito de compras
 Pasarela de pagos
